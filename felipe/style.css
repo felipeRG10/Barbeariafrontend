@@ -1,9 +1,15 @@
-h1 {
+h2 {
     text-align: center;
     color: black;
-    background-color: red;
+    background-color: rgb(112, 107, 107);
     border-radius: 20px;
 }
 i {
-    color :darkgray
+    color : red
+}
+b{
+    color: rgb(92, 92, 92)
+}
+p {
+    color: rgb(163, 45, 45)
 }
